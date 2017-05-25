@@ -48,9 +48,6 @@ import acm.program.*;
 public class CopyPhotos extends ConsoleProgram{
     /**
      * 
-     * 
-     * 
-     * 
 	 */
 	private static final long serialVersionUID = 1L;
 	public static int copied_files = 0;
